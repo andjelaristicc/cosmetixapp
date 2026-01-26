@@ -23,8 +23,8 @@ const Impressum: React.FC = () => {
         <div>
           <h2 className="text-sm font-bold text-slate-400 uppercase tracking-widest mb-2">Contact Information</h2>
           <p className="text-lg text-slate-700">
-            Email: contact@cosmetix-ai.com<br />
-            Phone: +1 (307) 555-0123
+            Email: mail@cosmetix.app<br />
+            Phone: 08941433110
           </p>
         </div>
 
