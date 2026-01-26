@@ -48,8 +48,7 @@ const Footer: React.FC = () => {
         <div className="border-t border-slate-100 pt-8 flex flex-col md:flex-row justify-between items-center gap-4 text-slate-400 text-sm">
           <p>© {new Date().getFullYear()} MBP Solutions LLC. All rights reserved.</p>
           <div className="flex gap-6">
-            <a href="#" className="hover:text-rose-600 transition-colors">Instagram</a>
-            <a href="#" className="hover:text-rose-600 transition-colors">LinkedIn</a>
+            <a href="https://www.instagram.com/cosmetix.app" className="hover:text-rose-600 transition-colors">Instagram</a>
           </div>
         </div>
       </div>
