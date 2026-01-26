@@ -17,7 +17,7 @@ const Demo: React.FC = () => {
           
           <p className="text-lg font-bold text-slate-500 uppercase tracking-widest mb-4">Call Cosmetix Now</p>
           <div className="text-4xl md:text-6xl font-bold text-slate-900 mb-8 font-mono tracking-tight group-hover:text-rose-600 transition-colors">
-            08941433110 COSM-AI
+            08941433110 
           </div>
           
           <div className="space-y-6">
