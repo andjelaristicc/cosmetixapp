@@ -12,6 +12,7 @@ import Footer from './components/Footer';
 import Terms from './components/Terms';
 import Impressum from './components/Impressum';
 import About from './components/About';
+import AcceptableUse from './components/AcceptableUse'; // adjust path to match where Terms is imported from
 
 // Scroll to top on route change
 const ScrollToTop = () => {
@@ -75,6 +76,7 @@ const App: React.FC = () => {
           <Route path="/about" element={<About />} />
           <Route path="/terms" element={<Terms />} />
           <Route path="/impressum" element={<Impressum />} />
+          <Route path="/acceptable-use" element={<AcceptableUse />} />
         </Routes>
       </main>
       <Footer />
