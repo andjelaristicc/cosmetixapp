@@ -14,6 +14,8 @@ import Impressum from './components/Impressum';
 import About from './components/About';
 import AcceptableUse from './components/AcceptableUse'; 
 import Disclaimer from './components/Disclaimer';
+import SLA from './components/SLA';
+import Privacy from './components/Privacy';
 
 // Scroll to top on route change
 const ScrollToTop = () => {
@@ -79,6 +81,8 @@ const App: React.FC = () => {
           <Route path="/impressum" element={<Impressum />} />
           <Route path="/acceptable-use" element={<AcceptableUse />} />
           <Route path="/disclaimer" element={<Disclaimer />} />
+          <Route path="/sla" element={<SLA />} />
+          <Route path="/privacy" element={<Privacy />} />
         </Routes>
       </main>
       <Footer />
