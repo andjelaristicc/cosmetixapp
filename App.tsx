@@ -16,6 +16,7 @@ import AcceptableUse from './components/AcceptableUse';
 import Disclaimer from './components/Disclaimer';
 import SLA from './components/SLA';
 import Privacy from './components/Privacy';
+import Cookies from './components/Cookies';
 
 // Scroll to top on route change
 const ScrollToTop = () => {
@@ -83,6 +84,7 @@ const App: React.FC = () => {
           <Route path="/disclaimer" element={<Disclaimer />} />
           <Route path="/sla" element={<SLA />} />
           <Route path="/privacy" element={<Privacy />} />
+          <Route path="/cookies" element={<Cookies />} />
         </Routes>
       </main>
       <Footer />
