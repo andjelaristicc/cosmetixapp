@@ -18,6 +18,7 @@ import SLA from './components/SLA';
 import Privacy from './components/Privacy';
 import Cookies from './components/Cookies';
 import GDPR from './components/GDPR';
+import DPA from './components/DPA';
 
 // Scroll to top on route change
 const ScrollToTop = () => {
@@ -87,6 +88,7 @@ const App: React.FC = () => {
           <Route path="/privacy" element={<Privacy />} />
           <Route path="/cookies" element={<Cookies />} />
           <Route path="/gdpr" element={<GDPR />} />
+          <Route path="/dpa" element={<DPA />} />
         </Routes>
       </main>
       <Footer />
