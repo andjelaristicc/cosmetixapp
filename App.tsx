@@ -20,6 +20,7 @@ import Cookies from './components/Cookies';
 import GDPR from './components/GDPR';
 import DPA from './components/DPA';
 import HIPAA from './components/HIPAA';
+import Billing from './components/Billing';
 
 // Scroll to top on route change
 const ScrollToTop = () => {
@@ -91,6 +92,7 @@ const App: React.FC = () => {
           <Route path="/gdpr" element={<GDPR />} />
           <Route path="/dpa" element={<DPA />} />
           <Route path="/hipaa" element={<HIPAA />} />
+          <Route path="/billing" element={<Billing />} />
         </Routes>
       </main>
       <Footer />
