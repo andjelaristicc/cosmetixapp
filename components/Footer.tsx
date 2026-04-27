@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import { Mail, MapPin } from 'lucide-react';
+import { Mail, MapPin, Phone } from 'lucide-react';
 
 const Footer: React.FC = () => {
   return (
@@ -16,7 +16,11 @@ const Footer: React.FC = () => {
             <div className="space-y-4">
                <div className="flex items-center gap-3 text-slate-600">
                   <MapPin size={18} className="text-rose-500" />
-                  <span>MBP Solutions LLC, Wyoming, USA</span>
+                  <span>LAMP Solutions LLC, Wyoming, USA</span>
+               </div>
+               <div className="flex items-center gap-3 text-slate-600">
+                  <Phone size={18} className="text-rose-500" />
+                  <span>+1 (307) 381-2870</span>
                </div>
                <div className="flex items-center gap-3 text-slate-600">
                   <Mail size={18} className="text-rose-500" />
@@ -73,7 +77,7 @@ const Footer: React.FC = () => {
 
         {/* Bottom Bar */}
         <div className="border-t border-slate-100 pt-8 flex flex-col md:flex-row justify-between items-center gap-4 text-slate-400 text-sm">
-          <p>© {new Date().getFullYear()} MBP Solutions LLC. All rights reserved.</p>
+          <p>© {new Date().getFullYear()} LAMP Solutions LLC. All rights reserved.</p>
           <div className="flex gap-6">
             <a href="https://www.instagram.com/cosmetix.app" className="hover:text-rose-600 transition-colors">Instagram</a>
           </div>

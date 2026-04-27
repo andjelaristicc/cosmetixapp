@@ -7,7 +7,7 @@ const AcceptableUse: React.FC = () => {
       <div className="prose prose-slate max-w-none space-y-6 text-slate-600">
         <p className="text-sm text-slate-500">Effective Date: February 10, 2026</p>
         <div className="bg-slate-50 p-4 rounded-lg text-sm space-y-1">
-          <p><strong>Company Name:</strong> MBP Solutions LLC</p>
+          <p><strong>Company Name:</strong> LAMP Solutions LLC</p>
           <p><strong>Company Address:</strong> 75 E 3rd St, Sheridan, WY 82801, United States</p>
           <p><strong>Website:</strong> <a href="https://cosmetix.app/" className="text-rose-600 hover:text-rose-700">https://cosmetix.app/</a></p>
           <p><strong>Email:</strong> <a href="mailto:mail@cosmetix.app" className="text-rose-600 hover:text-rose-700">mail@cosmetix.app</a></p>
@@ -15,7 +15,7 @@ const AcceptableUse: React.FC = () => {
 
         <section>
           <h2 className="text-2xl font-bold text-slate-900 mb-4">1. Introduction</h2>
-          <p>This Acceptable Use Policy ("Policy") governs the permitted and prohibited uses of the Cosmetix AI Phone Assistant platform, services, software, and related systems (the "Service") operated by MBP Solutions LLC ("Company," "Cosmetix," "we," "us," or "our").</p>
+          <p>This Acceptable Use Policy ("Policy") governs the permitted and prohibited uses of the Cosmetix AI Phone Assistant platform, services, software, and related systems (the "Service") operated by LAMP Solutions LLC ("Company," "Cosmetix," "we," "us," or "our").</p>
           <p>This Policy is incorporated into and forms part of our Terms of Service.</p>
           <p>By accessing or using the Service, you agree to comply with this Policy.</p>
           <p>The purpose of this Policy is to protect the security, integrity, legality, and reliability of the Service, our users, and the public.</p>
@@ -176,7 +176,7 @@ const AcceptableUse: React.FC = () => {
         <section>
           <h2 className="text-2xl font-bold text-slate-900 mb-4">10. Contact Information</h2>
           <div className="bg-slate-50 p-4 rounded-lg space-y-1">
-            <p><strong>Company Name:</strong> MBP Solutions LLC</p>
+            <p><strong>Company Name:</strong> LAMP Solutions LLC</p>
             <p><strong>Company Address:</strong> 75 E 3rd St, Sheridan, WY 82801, United States</p>
             <p><strong>Website:</strong> <a href="https://cosmetix.app/" className="text-rose-600 hover:text-rose-700">https://cosmetix.app/</a></p>
             <p><strong>Email:</strong> <a href="mailto:mail@cosmetix.app" className="text-rose-600 hover:text-rose-700">mail@cosmetix.app</a></p>

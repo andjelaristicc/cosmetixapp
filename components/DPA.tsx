@@ -7,7 +7,7 @@ const DPA: React.FC = () => {
       <div className="prose prose-slate max-w-none space-y-6 text-slate-600">
         <p className="text-sm text-slate-500">Effective Date: February 10, 2026</p>
         <div className="bg-slate-50 p-4 rounded-lg text-sm space-y-1">
-          <p><strong>Company Name:</strong> MBP Solutions LLC</p>
+          <p><strong>Company Name:</strong> LAMP Solutions LLC</p>
           <p><strong>Company Address:</strong> 75 E 3rd St, Sheridan, WY 82801, United States</p>
           <p><strong>Website:</strong> <a href="https://cosmetix.app/" className="text-rose-600 hover:text-rose-700">https://cosmetix.app/</a></p>
           <p><strong>Email:</strong> <a href="mailto:mail@cosmetix.app" className="text-rose-600 hover:text-rose-700">mail@cosmetix.app</a></p>
@@ -15,8 +15,8 @@ const DPA: React.FC = () => {
 
         <section>
           <h2 className="text-2xl font-bold text-slate-900 mb-4">1. Introduction and Purpose</h2>
-          <p>This Data Processing Agreement ("DPA") forms part of the Terms of Service between MBP Solutions LLC ("Processor," "Company," "Cosmetix," "we," "us," or "our") and the customer using the Cosmetix AI Phone Assistant Service ("Controller," "Customer," or "you").</p>
-          <p>This DPA governs the processing of Personal Data by MBP Solutions LLC on behalf of the Customer in connection with the provision of the Cosmetix Service (the "Service").</p>
+          <p>This Data Processing Agreement ("DPA") forms part of the Terms of Service between LAMP Solutions LLC ("Processor," "Company," "Cosmetix," "we," "us," or "our") and the customer using the Cosmetix AI Phone Assistant Service ("Controller," "Customer," or "you").</p>
+          <p>This DPA governs the processing of Personal Data by LAMP Solutions LLC on behalf of the Customer in connection with the provision of the Cosmetix Service (the "Service").</p>
           <p>This DPA is intended to ensure compliance with applicable data protection laws, including but not limited to:</p>
           <ul className="list-disc pl-6 space-y-2">
             <li>The General Data Protection Regulation (EU) 2016/679 ("GDPR")</li>
@@ -43,7 +43,7 @@ const DPA: React.FC = () => {
         <section>
           <h2 className="text-2xl font-bold text-slate-900 mb-4">3. Roles and Scope of Processing</h2>
           <p>The Customer acts as the Controller of Personal Data.</p>
-          <p>MBP Solutions LLC acts as the Processor of Personal Data processed through the Service.</p>
+          <p>LAMP Solutions LLC acts as the Processor of Personal Data processed through the Service.</p>
           <p>Processing activities may include:</p>
           <ul className="list-disc pl-6 space-y-2">
             <li>Receiving inbound communications</li>
@@ -97,7 +97,7 @@ const DPA: React.FC = () => {
 
         <section>
           <h2 className="text-2xl font-bold text-slate-900 mb-4">7. Processor Obligations</h2>
-          <p>MBP Solutions LLC agrees to:</p>
+          <p>LAMP Solutions LLC agrees to:</p>
           <ul className="list-disc pl-6 space-y-2">
             <li>Process Personal Data only on documented instructions from the Customer</li>
             <li>Process Personal Data solely for the purposes described in this DPA</li>
@@ -123,7 +123,7 @@ const DPA: React.FC = () => {
 
         <section>
           <h2 className="text-2xl font-bold text-slate-900 mb-4">9. Subprocessors</h2>
-          <p>The Customer authorizes MBP Solutions LLC to engage Subprocessors to provide the Service.</p>
+          <p>The Customer authorizes LAMP Solutions LLC to engage Subprocessors to provide the Service.</p>
           <p>Subprocessors may include:</p>
           <ul className="list-disc pl-6 space-y-2">
             <li>Cloud infrastructure providers</li>
@@ -144,7 +144,7 @@ const DPA: React.FC = () => {
 
         <section>
           <h2 className="text-2xl font-bold text-slate-900 mb-4">11. Confidentiality</h2>
-          <p>MBP Solutions LLC ensures that all personnel authorized to process Personal Data are subject to confidentiality obligations.</p>
+          <p>LAMP Solutions LLC ensures that all personnel authorized to process Personal Data are subject to confidentiality obligations.</p>
           <p>Personnel are trained on data protection and security requirements.</p>
         </section>
 
@@ -192,12 +192,12 @@ const DPA: React.FC = () => {
         <section>
           <h2 className="text-2xl font-bold text-slate-900 mb-4">16. Liability</h2>
           <p>Each party shall be responsible for its own compliance with applicable data protection laws.</p>
-          <p>MBP Solutions LLC shall not be liable for violations caused by Customer misuse of the Service or unlawful instructions.</p>
+          <p>LAMP Solutions LLC shall not be liable for violations caused by Customer misuse of the Service or unlawful instructions.</p>
         </section>
 
         <section>
           <h2 className="text-2xl font-bold text-slate-900 mb-4">17. Term and Termination</h2>
-          <p>This DPA remains in effect for as long as MBP Solutions LLC processes Personal Data on behalf of the Customer.</p>
+          <p>This DPA remains in effect for as long as LAMP Solutions LLC processes Personal Data on behalf of the Customer.</p>
           <p>Termination of the Service terminates this DPA, except for provisions that survive termination by law.</p>
         </section>
 
@@ -215,7 +215,7 @@ const DPA: React.FC = () => {
         <section>
           <h2 className="text-2xl font-bold text-slate-900 mb-4">20. Contact Information</h2>
           <div className="bg-slate-50 p-4 rounded-lg space-y-1">
-            <p><strong>Company Name:</strong> MBP Solutions LLC</p>
+            <p><strong>Company Name:</strong> LAMP Solutions LLC</p>
             <p><strong>Company Address:</strong> 75 E 3rd St, Sheridan, WY 82801, United States</p>
             <p><strong>Website:</strong> <a href="https://cosmetix.app/" className="text-rose-600 hover:text-rose-700">https://cosmetix.app/</a></p>
             <p><strong>Email:</strong> <a href="mailto:mail@cosmetix.app" className="text-rose-600 hover:text-rose-700">mail@cosmetix.app</a></p>

@@ -7,7 +7,7 @@ const Security: React.FC = () => {
       <div className="prose prose-slate max-w-none space-y-6 text-slate-600">
         <p className="text-sm text-slate-500">Effective Date: February 10, 2026</p>
         <div className="bg-slate-50 p-4 rounded-lg text-sm space-y-1">
-          <p><strong>Company Name:</strong> MBP Solutions LLC</p>
+          <p><strong>Company Name:</strong> LAMP Solutions LLC</p>
           <p><strong>Company Address:</strong> 75 E 3rd St, Sheridan, WY 82801, United States</p>
           <p><strong>Website:</strong> <a href="https://cosmetix.app/" className="text-rose-600 hover:text-rose-700">https://cosmetix.app/</a></p>
           <p><strong>Email:</strong> <a href="mailto:mail@cosmetix.app" className="text-rose-600 hover:text-rose-700">mail@cosmetix.app</a></p>
@@ -15,7 +15,7 @@ const Security: React.FC = () => {
 
         <section>
           <h2 className="text-2xl font-bold text-slate-900 mb-4">1. Introduction</h2>
-          <p>MBP Solutions LLC ("Company," "Cosmetix," "we," "us," or "our") is committed to maintaining the security, integrity, and protection of all financial transactions, personal data, and system infrastructure associated with the Cosmetix AI Phone Assistant platform and services (the "Service").</p>
+          <p>LAMP Solutions LLC ("Company," "Cosmetix," "we," "us," or "our") is committed to maintaining the security, integrity, and protection of all financial transactions, personal data, and system infrastructure associated with the Cosmetix AI Phone Assistant platform and services (the "Service").</p>
           <p>This Security and Payment Protection Policy explains the measures we implement to protect payment information, financial transactions, and system security.</p>
         </section>
 
@@ -31,7 +31,7 @@ const Security: React.FC = () => {
             <li>Other secure payment gateways</li>
           </ul>
           <p className="mt-4">Payment information is transmitted using encrypted connections and handled directly by authorized payment processors.</p>
-          <p>MBP Solutions LLC does not store full credit card numbers or sensitive payment credentials on its servers.</p>
+          <p>LAMP Solutions LLC does not store full credit card numbers or sensitive payment credentials on its servers.</p>
         </section>
 
         <section>
@@ -116,7 +116,7 @@ const Security: React.FC = () => {
 
         <section>
           <h2 className="text-2xl font-bold text-slate-900 mb-4">9. Payment Authorization and Verification</h2>
-          <p>By submitting payment information, you authorize MBP Solutions LLC and its payment processors to charge your selected payment method in accordance with your subscription agreement.</p>
+          <p>By submitting payment information, you authorize LAMP Solutions LLC and its payment processors to charge your selected payment method in accordance with your subscription agreement.</p>
           <p>We reserve the right to verify payment information and refuse or cancel transactions if fraud or unauthorized activity is suspected.</p>
         </section>
 
@@ -180,7 +180,7 @@ const Security: React.FC = () => {
         <section>
           <h2 className="text-2xl font-bold text-slate-900 mb-4">16. Contact Information</h2>
           <div className="bg-slate-50 p-4 rounded-lg space-y-1">
-            <p><strong>Company Name:</strong> MBP Solutions LLC</p>
+            <p><strong>Company Name:</strong> LAMP Solutions LLC</p>
             <p><strong>Company Address:</strong> 75 E 3rd St, Sheridan, WY 82801, United States</p>
             <p><strong>Website:</strong> <a href="https://cosmetix.app/" className="text-rose-600 hover:text-rose-700">https://cosmetix.app/</a></p>
             <p><strong>Email:</strong> <a href="mailto:mail@cosmetix.app" className="text-rose-600 hover:text-rose-700">mail@cosmetix.app</a></p>

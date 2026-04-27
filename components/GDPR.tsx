@@ -7,7 +7,7 @@ const GDPR: React.FC = () => {
       <div className="prose prose-slate max-w-none space-y-6 text-slate-600">
         <p className="text-sm text-slate-500">Effective Date: February 10, 2026</p>
         <div className="bg-slate-50 p-4 rounded-lg text-sm space-y-1">
-          <p><strong>Company Name:</strong> MBP Solutions LLC</p>
+          <p><strong>Company Name:</strong> LAMP Solutions LLC</p>
           <p><strong>Company Address:</strong> 75 E 3rd St, Sheridan, WY 82801, United States</p>
           <p><strong>Website:</strong> <a href="https://cosmetix.app/" className="text-rose-600 hover:text-rose-700">https://cosmetix.app/</a></p>
           <p><strong>Email:</strong> <a href="mailto:mail@cosmetix.app" className="text-rose-600 hover:text-rose-700">mail@cosmetix.app</a></p>
@@ -15,13 +15,13 @@ const GDPR: React.FC = () => {
 
         <section>
           <h2 className="text-2xl font-bold text-slate-900 mb-4">1. Introduction</h2>
-          <p>This GDPR Rights and Data Request Policy ("Policy") explains the rights of individuals ("Data Subjects") under applicable data protection laws, including the General Data Protection Regulation (EU) 2016/679 ("GDPR"), and describes how MBP Solutions LLC ("Company," "Cosmetix," "we," "us," or "our") responds to requests related to personal data processed through the Cosmetix AI Phone Assistant platform and services (the "Service").</p>
+          <p>This GDPR Rights and Data Request Policy ("Policy") explains the rights of individuals ("Data Subjects") under applicable data protection laws, including the General Data Protection Regulation (EU) 2016/679 ("GDPR"), and describes how LAMP Solutions LLC ("Company," "Cosmetix," "we," "us," or "our") responds to requests related to personal data processed through the Cosmetix AI Phone Assistant platform and services (the "Service").</p>
           <p>This Policy applies to individuals located in the European Economic Area (EEA), United Kingdom (UK), and other jurisdictions that grant similar rights.</p>
         </section>
 
         <section>
           <h2 className="text-2xl font-bold text-slate-900 mb-4">2. Scope of This Policy</h2>
-          <p>This Policy applies to personal data processed by MBP Solutions LLC when acting as:</p>
+          <p>This Policy applies to personal data processed by LAMP Solutions LLC when acting as:</p>
           <ul className="list-disc pl-6 space-y-2">
             <li><strong>A Data Controller</strong>, when we collect and use personal data for our own business purposes</li>
             <li><strong>A Data Processor</strong>, when we process personal data on behalf of our customers</li>
@@ -162,7 +162,7 @@ const GDPR: React.FC = () => {
         <section>
           <h2 className="text-2xl font-bold text-slate-900 mb-4">14. Contact Information</h2>
           <div className="bg-slate-50 p-4 rounded-lg space-y-1">
-            <p><strong>Company Name:</strong> MBP Solutions LLC</p>
+            <p><strong>Company Name:</strong> LAMP Solutions LLC</p>
             <p><strong>Company Address:</strong> 75 E 3rd St, Sheridan, WY 82801, United States</p>
             <p><strong>Website:</strong> <a href="https://cosmetix.app/" className="text-rose-600 hover:text-rose-700">https://cosmetix.app/</a></p>
             <p><strong>Email:</strong> <a href="mailto:mail@cosmetix.app" className="text-rose-600 hover:text-rose-700">mail@cosmetix.app</a></p>

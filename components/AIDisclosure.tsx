@@ -7,7 +7,7 @@ const AIDisclosure: React.FC = () => {
       <div className="prose prose-slate max-w-none space-y-6 text-slate-600">
         <p className="text-sm text-slate-500">Effective Date: February 10, 2026</p>
         <div className="bg-slate-50 p-4 rounded-lg text-sm space-y-1">
-          <p><strong>Company Name:</strong> MBP Solutions LLC</p>
+          <p><strong>Company Name:</strong> LAMP Solutions LLC</p>
           <p><strong>Company Address:</strong> 75 E 3rd St, Sheridan, WY 82801, United States</p>
           <p><strong>Website:</strong> <a href="https://cosmetix.app/" className="text-rose-600 hover:text-rose-700">https://cosmetix.app/</a></p>
           <p><strong>Email:</strong> <a href="mailto:mail@cosmetix.app" className="text-rose-600 hover:text-rose-700">mail@cosmetix.app</a></p>
@@ -15,7 +15,7 @@ const AIDisclosure: React.FC = () => {
 
         <section>
           <h2 className="text-2xl font-bold text-slate-900 mb-4">1. Introduction</h2>
-          <p>This AI Use and Automated Communication Disclosure Policy ("Policy") explains how MBP Solutions LLC ("Company," "Cosmetix," "we," "us," or "our") uses artificial intelligence, automation, and machine learning technologies in connection with the Cosmetix AI Phone Assistant platform and services (the "Service").</p>
+          <p>This AI Use and Automated Communication Disclosure Policy ("Policy") explains how LAMP Solutions LLC ("Company," "Cosmetix," "we," "us," or "our") uses artificial intelligence, automation, and machine learning technologies in connection with the Cosmetix AI Phone Assistant platform and services (the "Service").</p>
           <p>This Policy applies to all users, customers, and individuals interacting with the Service.</p>
           <p>By using or interacting with the Service, you acknowledge and accept the use of artificial intelligence and automated systems as described in this Policy.</p>
         </section>
@@ -52,7 +52,7 @@ const AIDisclosure: React.FC = () => {
           <h2 className="text-2xl font-bold text-slate-900 mb-4">4. Disclosure of AI Interaction</h2>
           <p>Individuals interacting with the Service may be communicating with an artificial intelligence system rather than a human.</p>
           <p>Customers using the Service are responsible for providing appropriate disclosures to their own customers if required by applicable laws.</p>
-          <p>MBP Solutions LLC does not guarantee that individuals will always recognize or distinguish AI-generated communication.</p>
+          <p>LAMP Solutions LLC does not guarantee that individuals will always recognize or distinguish AI-generated communication.</p>
         </section>
 
         <section>
@@ -142,7 +142,7 @@ const AIDisclosure: React.FC = () => {
 
         <section>
           <h2 className="text-2xl font-bold text-slate-900 mb-4">13. Limitation of Liability Related to AI</h2>
-          <p>To the fullest extent permitted by law, MBP Solutions LLC shall not be liable for:</p>
+          <p>To the fullest extent permitted by law, LAMP Solutions LLC shall not be liable for:</p>
           <ul className="list-disc pl-6 space-y-2">
             <li>Errors in AI-generated responses</li>
             <li>Misinterpretation of communications</li>
@@ -171,7 +171,7 @@ const AIDisclosure: React.FC = () => {
         <section>
           <h2 className="text-2xl font-bold text-slate-900 mb-4">16. Contact Information</h2>
           <div className="bg-slate-50 p-4 rounded-lg space-y-1">
-            <p><strong>Company Name:</strong> MBP Solutions LLC</p>
+            <p><strong>Company Name:</strong> LAMP Solutions LLC</p>
             <p><strong>Company Address:</strong> 75 E 3rd St, Sheridan, WY 82801, United States</p>
             <p><strong>Website:</strong> <a href="https://cosmetix.app/" className="text-rose-600 hover:text-rose-700">https://cosmetix.app/</a></p>
             <p><strong>Email:</strong> <a href="mailto:mail@cosmetix.app" className="text-rose-600 hover:text-rose-700">mail@cosmetix.app</a></p>

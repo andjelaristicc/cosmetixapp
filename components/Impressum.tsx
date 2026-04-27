@@ -8,13 +8,13 @@ const Impressum: React.FC = () => {
       <div className="bg-white p-8 rounded-3xl border border-slate-200 shadow-sm space-y-8 animate-reveal-up stagger-1">
         <div>
           <h2 className="text-sm font-bold text-slate-400 uppercase tracking-widest mb-2">Company Name</h2>
-          <p className="text-2xl font-bold text-slate-900">MBP Solutions LLC</p>
+          <p className="text-2xl font-bold text-slate-900">LAMP Solutions LLC</p>
         </div>
 
         <div>
           <h2 className="text-sm font-bold text-slate-400 uppercase tracking-widest mb-2">Registered Address</h2>
           <p className="text-lg text-slate-700">
-            30 N Gould St Ste R<br />
+            75 E 3rd St<br />
             Sheridan, WY 82801<br />
             United States
           </p>
@@ -24,7 +24,7 @@ const Impressum: React.FC = () => {
           <h2 className="text-sm font-bold text-slate-400 uppercase tracking-widest mb-2">Contact Information</h2>
           <p className="text-lg text-slate-700">
             Email: mail@cosmetix.app<br />
-            Phone: 08941433110
+            Phone: +1 (307) 381-2870
           </p>
         </div>
 
@@ -43,7 +43,7 @@ const Impressum: React.FC = () => {
 
         <div className="pt-8 border-t border-slate-100">
           <p className="text-slate-500 italic">
-            Note: This page is provided to comply with general internet transparency requirements. As a Wyoming LLC, MBP Solutions LLC operates under the jurisdictional laws of the State of Wyoming and the United States.
+            Note: This page is provided to comply with general internet transparency requirements. As a Wyoming LLC, LAMP Solutions LLC operates under the jurisdictional laws of the State of Wyoming and the United States.
           </p>
         </div>
       </div>

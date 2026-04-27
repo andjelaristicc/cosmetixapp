@@ -7,7 +7,7 @@ const Cookies: React.FC = () => {
       <div className="prose prose-slate max-w-none space-y-6 text-slate-600">
         <p className="text-sm text-slate-500">Effective Date: February 10, 2026</p>
         <div className="bg-slate-50 p-4 rounded-lg text-sm space-y-1">
-          <p><strong>Company Name:</strong> MBP Solutions LLC</p>
+          <p><strong>Company Name:</strong> LAMP Solutions LLC</p>
           <p><strong>Company Address:</strong> 75 E 3rd St, Sheridan, WY 82801, United States</p>
           <p><strong>Website:</strong> <a href="https://cosmetix.app/" className="text-rose-600 hover:text-rose-700">https://cosmetix.app/</a></p>
           <p><strong>Email:</strong> <a href="mailto:mail@cosmetix.app" className="text-rose-600 hover:text-rose-700">mail@cosmetix.app</a></p>
@@ -15,7 +15,7 @@ const Cookies: React.FC = () => {
 
         <section>
           <h2 className="text-2xl font-bold text-slate-900 mb-4">1. Introduction</h2>
-          <p>This Cookie Policy explains how MBP Solutions LLC ("Company," "Cosmetix," "we," "us," or "our") uses cookies and similar technologies when you visit or interact with our website and services at https://cosmetix.app/ (the "Website") and when you use the Cosmetix platform and related services (collectively, the "Service").</p>
+          <p>This Cookie Policy explains how LAMP Solutions LLC ("Company," "Cosmetix," "we," "us," or "our") uses cookies and similar technologies when you visit or interact with our website and services at https://cosmetix.app/ (the "Website") and when you use the Cosmetix platform and related services (collectively, the "Service").</p>
           <p>This Cookie Policy should be read together with our Privacy Policy and Terms of Service.</p>
           <p>By continuing to use our Website or Service, you consent to the use of cookies as described in this Cookie Policy, subject to your cookie preferences and applicable law.</p>
         </section>
@@ -161,7 +161,7 @@ const Cookies: React.FC = () => {
         <section>
           <h2 className="text-2xl font-bold text-slate-900 mb-4">11. Contact Information</h2>
           <div className="bg-slate-50 p-4 rounded-lg space-y-1">
-            <p><strong>Company Name:</strong> MBP Solutions LLC</p>
+            <p><strong>Company Name:</strong> LAMP Solutions LLC</p>
             <p><strong>Company Address:</strong> 75 E 3rd St, Sheridan, WY 82801, United States</p>
             <p><strong>Website:</strong> <a href="https://cosmetix.app/" className="text-rose-600 hover:text-rose-700">https://cosmetix.app/</a></p>
             <p><strong>Email:</strong> <a href="mailto:mail@cosmetix.app" className="text-rose-600 hover:text-rose-700">mail@cosmetix.app</a></p>

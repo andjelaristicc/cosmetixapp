@@ -7,7 +7,7 @@ const Disclaimer: React.FC = () => {
       <div className="prose prose-slate max-w-none space-y-6 text-slate-600">
         <p className="text-sm text-slate-500">Effective Date: February 10, 2026</p>
         <div className="bg-slate-50 p-4 rounded-lg text-sm space-y-1">
-          <p><strong>Company Name:</strong> MBP Solutions LLC</p>
+          <p><strong>Company Name:</strong> LAMP Solutions LLC</p>
           <p><strong>Company Address:</strong> 75 E 3rd St, Sheridan, WY 82801, United States</p>
           <p><strong>Website:</strong> <a href="https://cosmetix.app/" className="text-rose-600 hover:text-rose-700">https://cosmetix.app/</a></p>
           <p><strong>Email:</strong> <a href="mailto:mail@cosmetix.app" className="text-rose-600 hover:text-rose-700">mail@cosmetix.app</a></p>
@@ -15,7 +15,7 @@ const Disclaimer: React.FC = () => {
 
         <section>
           <h2 className="text-2xl font-bold text-slate-900 mb-4">1. Introduction</h2>
-          <p>This General Legal Disclaimer ("Disclaimer") governs your access to and use of the Cosmetix AI Phone Assistant platform, website, software, and related services (the "Service") provided by MBP Solutions LLC ("Company," "Cosmetix," "we," "us," or "our").</p>
+          <p>This General Legal Disclaimer ("Disclaimer") governs your access to and use of the Cosmetix AI Phone Assistant platform, website, software, and related services (the "Service") provided by LAMP Solutions LLC ("Company," "Cosmetix," "we," "us," or "our").</p>
           <p>By accessing or using the Service, you acknowledge and agree to this Disclaimer.</p>
         </section>
 
@@ -77,7 +77,7 @@ const Disclaimer: React.FC = () => {
         <section>
           <h2 className="text-2xl font-bold text-slate-900 mb-4">6. No Warranty</h2>
           <p>The Service is provided on an "as is" and "as available" basis.</p>
-          <p>To the fullest extent permitted by law, MBP Solutions LLC disclaims all warranties, express or implied, including but not limited to:</p>
+          <p>To the fullest extent permitted by law, LAMP Solutions LLC disclaims all warranties, express or implied, including but not limited to:</p>
           <ul className="list-disc pl-6 space-y-2">
             <li>Merchantability</li>
             <li>Fitness for a particular purpose</li>
@@ -91,7 +91,7 @@ const Disclaimer: React.FC = () => {
 
         <section>
           <h2 className="text-2xl font-bold text-slate-900 mb-4">7. Limitation of Liability</h2>
-          <p>To the fullest extent permitted by law, MBP Solutions LLC shall not be liable for any damages arising from or related to the use of or inability to use the Service, including but not limited to:</p>
+          <p>To the fullest extent permitted by law, LAMP Solutions LLC shall not be liable for any damages arising from or related to the use of or inability to use the Service, including but not limited to:</p>
           <ul className="list-disc pl-6 space-y-2">
             <li>Loss of revenue</li>
             <li>Loss of profits</li>
@@ -129,7 +129,7 @@ const Disclaimer: React.FC = () => {
 
         <section>
           <h2 className="text-2xl font-bold text-slate-900 mb-4">10. No Professional Relationship</h2>
-          <p>Use of the Service does not create any professional, advisory, fiduciary, or agency relationship between you and MBP Solutions LLC.</p>
+          <p>Use of the Service does not create any professional, advisory, fiduciary, or agency relationship between you and LAMP Solutions LLC.</p>
           <p>The Company provides software tools only.</p>
         </section>
 
@@ -167,7 +167,7 @@ const Disclaimer: React.FC = () => {
         <section>
           <h2 className="text-2xl font-bold text-slate-900 mb-4">15. Contact Information</h2>
           <div className="bg-slate-50 p-4 rounded-lg space-y-1">
-            <p><strong>Company Name:</strong> MBP Solutions LLC</p>
+            <p><strong>Company Name:</strong> LAMP Solutions LLC</p>
             <p><strong>Company Address:</strong> 75 E 3rd St, Sheridan, WY 82801, United States</p>
             <p><strong>Website:</strong> <a href="https://cosmetix.app/" className="text-rose-600 hover:text-rose-700">https://cosmetix.app/</a></p>
             <p><strong>Email:</strong> <a href="mailto:mail@cosmetix.app" className="text-rose-600 hover:text-rose-700">mail@cosmetix.app</a></p>

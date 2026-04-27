@@ -7,7 +7,7 @@ const Billing: React.FC = () => {
       <div className="prose prose-slate max-w-none space-y-6 text-slate-600">
         <p className="text-sm text-slate-500">Effective Date: February 10, 2026</p>
         <div className="bg-slate-50 p-4 rounded-lg text-sm space-y-1">
-          <p><strong>Company Name:</strong> MBP Solutions LLC</p>
+          <p><strong>Company Name:</strong> LAMP Solutions LLC</p>
           <p><strong>Company Address:</strong> 75 E 3rd St, Sheridan, WY 82801, United States</p>
           <p><strong>Website:</strong> <a href="https://cosmetix.app/" className="text-rose-600 hover:text-rose-700">https://cosmetix.app/</a></p>
           <p><strong>Email:</strong> <a href="mailto:mail@cosmetix.app" className="text-rose-600 hover:text-rose-700">mail@cosmetix.app</a></p>
@@ -15,7 +15,7 @@ const Billing: React.FC = () => {
 
         <section>
           <h2 className="text-2xl font-bold text-slate-900 mb-4">1. Introduction</h2>
-          <p>This Subscription, Billing and Refund Policy ("Policy") governs all subscription plans, billing practices, payment obligations, trial periods, and refund conditions for the Cosmetix AI Phone Assistant service (the "Service") operated by MBP Solutions LLC ("Company," "Cosmetix," "we," "us," or "our").</p>
+          <p>This Subscription, Billing and Refund Policy ("Policy") governs all subscription plans, billing practices, payment obligations, trial periods, and refund conditions for the Cosmetix AI Phone Assistant service (the "Service") operated by LAMP Solutions LLC ("Company," "Cosmetix," "we," "us," or "our").</p>
           <p>By subscribing to or using the Service, you agree to this Policy and authorize us and our authorized payment processors to charge your selected payment method in accordance with the terms described below.</p>
         </section>
 
@@ -50,7 +50,7 @@ const Billing: React.FC = () => {
         <section>
           <h2 className="text-2xl font-bold text-slate-900 mb-4">4. Automatic Renewal</h2>
           <p>All subscriptions automatically renew at the end of each billing cycle unless cancelled prior to renewal.</p>
-          <p>By subscribing, you authorize MBP Solutions LLC and its payment processors to automatically charge your payment method for recurring subscription fees.</p>
+          <p>By subscribing, you authorize LAMP Solutions LLC and its payment processors to automatically charge your payment method for recurring subscription fees.</p>
           <p>Renewal billing occurs:</p>
           <ul className="list-disc pl-6 space-y-2">
             <li>Monthly, if you select a monthly subscription</li>
@@ -64,7 +64,7 @@ const Billing: React.FC = () => {
           <h2 className="text-2xl font-bold text-slate-900 mb-4">5. Payment Authorization</h2>
           <p>By providing a payment method, you:</p>
           <ul className="list-disc pl-6 space-y-2">
-            <li>Authorize MBP Solutions LLC and its authorized payment processors to charge your payment method</li>
+            <li>Authorize LAMP Solutions LLC and its authorized payment processors to charge your payment method</li>
             <li>Confirm that you are authorized to use the payment method</li>
             <li>Agree to maintain accurate and current payment information</li>
           </ul>
@@ -197,7 +197,7 @@ const Billing: React.FC = () => {
         <section>
           <h2 className="text-2xl font-bold text-slate-900 mb-4">17. Contact Information</h2>
           <div className="bg-slate-50 p-4 rounded-lg space-y-1">
-            <p><strong>Company Name:</strong> MBP Solutions LLC</p>
+            <p><strong>Company Name:</strong> LAMP Solutions LLC</p>
             <p><strong>Company Address:</strong> 75 E 3rd St, Sheridan, WY 82801, United States</p>
             <p><strong>Website:</strong> <a href="https://cosmetix.app/" className="text-rose-600 hover:text-rose-700">https://cosmetix.app/</a></p>
             <p><strong>Email:</strong> <a href="mailto:mail@cosmetix.app" className="text-rose-600 hover:text-rose-700">mail@cosmetix.app</a></p>

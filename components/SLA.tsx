@@ -7,7 +7,7 @@ const SLA: React.FC = () => {
       <div className="prose prose-slate max-w-none space-y-6 text-slate-600">
         <p className="text-sm text-slate-500">Effective Date: February 10, 2026</p>
         <div className="bg-slate-50 p-4 rounded-lg text-sm space-y-1">
-          <p><strong>Company Name:</strong> MBP Solutions LLC</p>
+          <p><strong>Company Name:</strong> LAMP Solutions LLC</p>
           <p><strong>Company Address:</strong> 75 E 3rd St, Sheridan, WY 82801, United States</p>
           <p><strong>Website:</strong> <a href="https://cosmetix.app/" className="text-rose-600 hover:text-rose-700">https://cosmetix.app/</a></p>
           <p><strong>Email:</strong> <a href="mailto:mail@cosmetix.app" className="text-rose-600 hover:text-rose-700">mail@cosmetix.app</a></p>
@@ -15,7 +15,7 @@ const SLA: React.FC = () => {
 
         <section>
           <h2 className="text-2xl font-bold text-slate-900 mb-4">1. Introduction</h2>
-          <p>This Service Level Agreement ("SLA") defines the service availability targets, support commitments, operational standards, and limitations associated with the Cosmetix AI Phone Assistant platform and services (the "Service") provided by MBP Solutions LLC ("Company," "Cosmetix," "we," "us," or "our").</p>
+          <p>This Service Level Agreement ("SLA") defines the service availability targets, support commitments, operational standards, and limitations associated with the Cosmetix AI Phone Assistant platform and services (the "Service") provided by LAMP Solutions LLC ("Company," "Cosmetix," "we," "us," or "our").</p>
           <p>This SLA applies to customers with an active subscription to the Service.</p>
           <p>This SLA is intended to define operational objectives and does not create any legally enforceable guarantee of uninterrupted service.</p>
         </section>
@@ -152,7 +152,7 @@ const SLA: React.FC = () => {
         <section>
           <h2 className="text-2xl font-bold text-slate-900 mb-4">13. No Financial Compensation or Service Credits</h2>
           <p>This SLA defines operational objectives only.</p>
-          <p>MBP Solutions LLC does not provide:</p>
+          <p>LAMP Solutions LLC does not provide:</p>
           <ul className="list-disc pl-6 space-y-2">
             <li>Service credits</li>
             <li>Refunds</li>
@@ -164,7 +164,7 @@ const SLA: React.FC = () => {
 
         <section>
           <h2 className="text-2xl font-bold text-slate-900 mb-4">14. Limitation of Liability</h2>
-          <p>To the fullest extent permitted by law, MBP Solutions LLC shall not be liable for:</p>
+          <p>To the fullest extent permitted by law, LAMP Solutions LLC shall not be liable for:</p>
           <ul className="list-disc pl-6 space-y-2">
             <li>Service interruptions</li>
             <li>Downtime</li>
@@ -206,7 +206,7 @@ const SLA: React.FC = () => {
         <section>
           <h2 className="text-2xl font-bold text-slate-900 mb-4">18. Contact Information</h2>
           <div className="bg-slate-50 p-4 rounded-lg space-y-1">
-            <p><strong>Company Name:</strong> MBP Solutions LLC</p>
+            <p><strong>Company Name:</strong> LAMP Solutions LLC</p>
             <p><strong>Company Address:</strong> 75 E 3rd St, Sheridan, WY 82801, United States</p>
             <p><strong>Website:</strong> <a href="https://cosmetix.app/" className="text-rose-600 hover:text-rose-700">https://cosmetix.app/</a></p>
             <p><strong>Email:</strong> <a href="mailto:mail@cosmetix.app" className="text-rose-600 hover:text-rose-700">mail@cosmetix.app</a></p>

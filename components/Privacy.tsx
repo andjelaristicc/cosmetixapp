@@ -7,7 +7,7 @@ const Privacy: React.FC = () => {
       <div className="prose prose-slate max-w-none space-y-6 text-slate-600">
         <p className="text-sm text-slate-500">Effective Date: February 10, 2026</p>
         <div className="bg-slate-50 p-4 rounded-lg text-sm space-y-1">
-          <p><strong>Company Name:</strong> MBP Solutions LLC</p>
+          <p><strong>Company Name:</strong> LAMP Solutions LLC</p>
           <p><strong>Company Address:</strong> 75 E 3rd St, Sheridan, WY 82801, United States</p>
           <p><strong>Website:</strong> <a href="https://cosmetix.app/" className="text-rose-600 hover:text-rose-700">https://cosmetix.app/</a></p>
           <p><strong>Email:</strong> <a href="mailto:mail@cosmetix.app" className="text-rose-600 hover:text-rose-700">mail@cosmetix.app</a></p>
@@ -15,14 +15,14 @@ const Privacy: React.FC = () => {
 
         <section>
           <h2 className="text-2xl font-bold text-slate-900 mb-4">1. Introduction</h2>
-          <p>MBP Solutions LLC ("Company," "Cosmetix," "we," "us," or "our") respects your privacy and is committed to protecting personal data. This Privacy Policy explains how we collect, use, disclose, process, and safeguard personal information when you access or use our website, platform, software, and AI phone assistant services (collectively, the "Service").</p>
+          <p>LAMP Solutions LLC ("Company," "Cosmetix," "we," "us," or "our") respects your privacy and is committed to protecting personal data. This Privacy Policy explains how we collect, use, disclose, process, and safeguard personal information when you access or use our website, platform, software, and AI phone assistant services (collectively, the "Service").</p>
           <p>This Privacy Policy applies to all users, customers, website visitors, and individuals whose personal information may be processed through the Service.</p>
           <p>By accessing or using the Service, you acknowledge that you have read and understood this Privacy Policy.</p>
         </section>
 
         <section>
           <h2 className="text-2xl font-bold text-slate-900 mb-4">2. Scope and Roles Under Data Protection Laws</h2>
-          <p>Depending on the circumstances, MBP Solutions LLC may act as:</p>
+          <p>Depending on the circumstances, LAMP Solutions LLC may act as:</p>
           <ul className="list-disc pl-6 space-y-2">
             <li><strong>Data Controller</strong>, when we collect and process personal data for our own business purposes</li>
             <li><strong>Data Processor</strong>, when we process personal data on behalf of our business customers who use Cosmetix to interact with their clients</li>
@@ -254,7 +254,7 @@ const Privacy: React.FC = () => {
         <section>
           <h2 className="text-2xl font-bold text-slate-900 mb-4">17. Contact Information</h2>
           <div className="bg-slate-50 p-4 rounded-lg space-y-1">
-            <p><strong>Company Name:</strong> MBP Solutions LLC</p>
+            <p><strong>Company Name:</strong> LAMP Solutions LLC</p>
             <p><strong>Company Address:</strong> 75 E 3rd St, Sheridan, WY 82801, United States</p>
             <p><strong>Website:</strong> <a href="https://cosmetix.app/" className="text-rose-600 hover:text-rose-700">https://cosmetix.app/</a></p>
             <p><strong>Email:</strong> <a href="mailto:mail@cosmetix.app" className="text-rose-600 hover:text-rose-700">mail@cosmetix.app</a></p>

@@ -7,7 +7,7 @@ const Terms: React.FC = () => {
       <div className="prose prose-slate max-w-none space-y-6 text-slate-600">
         <p className="text-sm text-slate-500">Effective Date: February 10, 2026</p>
         <div className="bg-slate-50 p-4 rounded-lg text-sm space-y-1">
-          <p><strong>Company Name:</strong> MBP Solutions LLC</p>
+          <p><strong>Company Name:</strong> LAMP Solutions LLC</p>
           <p><strong>Company Address:</strong> 75 E 3rd St, Sheridan, WY 82801, United States</p>
           <p><strong>Website:</strong> <a href="https://cosmetix.app/" className="text-rose-600 hover:text-rose-700">https://cosmetix.app/</a></p>
           <p><strong>Email:</strong> <a href="mailto:mail@cosmetix.app" className="text-rose-600 hover:text-rose-700">mail@cosmetix.app</a></p>
@@ -15,7 +15,7 @@ const Terms: React.FC = () => {
 
         <section>
           <h2 className="text-2xl font-bold text-slate-900 mb-4">1. Acceptance of Terms</h2>
-          <p>These Terms of Service ("Terms") constitute a legally binding agreement between you ("User," "Customer," "you," or "your") and MBP Solutions LLC ("Company," "Cosmetix," "we," "us," or "our") governing your access to and use of the Cosmetix AI Phone Assistant platform, services, software, website, and related features (collectively, the "Service").</p>
+          <p>These Terms of Service ("Terms") constitute a legally binding agreement between you ("User," "Customer," "you," or "your") and LAMP Solutions LLC ("Company," "Cosmetix," "we," "us," or "our") governing your access to and use of the Cosmetix AI Phone Assistant platform, services, software, website, and related features (collectively, the "Service").</p>
           <p>By accessing, registering for, subscribing to, or using the Service, you acknowledge that you have read, understood, and agree to be bound by these Terms and all applicable laws and regulations.</p>
           <p className="font-semibold">If you do not agree to these Terms, you must not access or use the Service.</p>
         </section>
@@ -71,7 +71,7 @@ const Terms: React.FC = () => {
 
         <section>
           <h2 className="text-2xl font-bold text-slate-900 mb-4">6. Subscription and Billing</h2>
-          <p>By subscribing to the Service, you authorize MBP Solutions LLC and its payment processors to charge your selected payment method for all applicable subscription fees.</p>
+          <p>By subscribing to the Service, you authorize LAMP Solutions LLC and its payment processors to charge your selected payment method for all applicable subscription fees.</p>
           <p>Subscription terms include:</p>
           <ul className="list-disc pl-6 space-y-2">
             <li>Automatic recurring billing</li>
@@ -156,7 +156,7 @@ const Terms: React.FC = () => {
 
         <section>
           <h2 className="text-2xl font-bold text-slate-900 mb-4">12. Intellectual Property</h2>
-          <p>All intellectual property rights in the Service, including software, design, content, trademarks, and technology, are owned by MBP Solutions LLC or its licensors.</p>
+          <p>All intellectual property rights in the Service, including software, design, content, trademarks, and technology, are owned by LAMP Solutions LLC or its licensors.</p>
           <p>You are granted a limited, non-exclusive, non-transferable license to use the Service solely for its intended purpose.</p>
           <p>You may not:</p>
           <ul className="list-disc pl-6 space-y-2">
@@ -184,7 +184,7 @@ const Terms: React.FC = () => {
 
         <section>
           <h2 className="text-2xl font-bold text-slate-900 mb-4">14. Limitation of Liability</h2>
-          <p>To the fullest extent permitted by law, MBP Solutions LLC shall not be liable for any indirect, incidental, consequential, special, or punitive damages, including but not limited to:</p>
+          <p>To the fullest extent permitted by law, LAMP Solutions LLC shall not be liable for any indirect, incidental, consequential, special, or punitive damages, including but not limited to:</p>
           <ul className="list-disc pl-6 space-y-2">
             <li>Loss of revenue</li>
             <li>Loss of business</li>
@@ -223,7 +223,7 @@ const Terms: React.FC = () => {
 
         <section>
           <h2 className="text-2xl font-bold text-slate-900 mb-4">17. Indemnification</h2>
-          <p>You agree to indemnify and hold harmless MBP Solutions LLC from any claims, damages, liabilities, costs, or expenses arising from:</p>
+          <p>You agree to indemnify and hold harmless LAMP Solutions LLC from any claims, damages, liabilities, costs, or expenses arising from:</p>
           <ul className="list-disc pl-6 space-y-2">
             <li>Your use of the Service</li>
             <li>Your violation of these Terms</li>
@@ -247,13 +247,13 @@ const Terms: React.FC = () => {
 
         <section>
           <h2 className="text-2xl font-bold text-slate-900 mb-4">20. Entire Agreement</h2>
-          <p>These Terms constitute the entire agreement between you and MBP Solutions LLC regarding the Service and supersede all prior agreements or understandings.</p>
+          <p>These Terms constitute the entire agreement between you and LAMP Solutions LLC regarding the Service and supersede all prior agreements or understandings.</p>
         </section>
 
         <section>
           <h2 className="text-2xl font-bold text-slate-900 mb-4">21. Contact Information</h2>
           <div className="bg-slate-50 p-4 rounded-lg space-y-1">
-            <p><strong>Company Name:</strong> MBP Solutions LLC</p>
+            <p><strong>Company Name:</strong> LAMP Solutions LLC</p>
             <p><strong>Company Address:</strong> 75 E 3rd St, Sheridan, WY 82801, United States</p>
             <p><strong>Website:</strong> <a href="https://cosmetix.app/" className="text-rose-600 hover:text-rose-700">https://cosmetix.app/</a></p>
             <p><strong>Email:</strong> <a href="mailto:mail@cosmetix.app" className="text-rose-600 hover:text-rose-700">mail@cosmetix.app</a></p>
